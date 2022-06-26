@@ -1,6 +1,8 @@
 # Python_Searching_Algorithms
 This code implements two searching algorithms using Python; seqential and binary search. Both functions take a reference to themselves, an array and a search item as parameters and return a boolean true if the search item was found in the array, false if it wasn't.
 
+The exampleTest.py file can be run to show how these methods can be used.
+
 ## Sequential Search
 The simplest of the two algorithms. Works on sorted or unsorted arrays. Checks each item in the array sequentially until the item is found or the end of the array is reached.
 
